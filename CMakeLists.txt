@@ -169,6 +169,13 @@ target_link_libraries(max_range_filter
 	${PCL_LIBRARIES}
 )
 
+add_executable(max_range_filter_sub src/max_range_filter_sub.cpp)
+add_dependencies(max_range_filter_sub ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(max_range_filter_sub
+	${catkin_LIBRARIES}
+	${OpenCV_LIBRARIES}
+	${PCL_LIBRARIES}
+)
 
 
 ## Rename C++ executable without prefix
