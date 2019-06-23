@@ -1,7 +1,7 @@
 /*
  *	max_range_filter.cpp
  *
- *	filter of SQ-LiDAR max range
+ *	filter of LiDAR's max range
  *
  * 	author : Yoshitaka Nagai
  */

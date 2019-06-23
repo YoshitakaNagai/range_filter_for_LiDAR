@@ -1,0 +1,4 @@
+<node name="max_range_filter" pkg="range_filter_for_LiDAR" type="max_range_filter">
+		<param name="border_range" type="double" value="30.0" />
+</node>
+
