@@ -1,4 +1,4 @@
-# range_filter_for_LiDAR
+# range_filter_for_liDAR
 
 ## Requirements
 - PCL(>=1.8)
