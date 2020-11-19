@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>range_filter_for_LiDAR</name>
+  <name>range_filter_for_liDAR</name>
   <version>0.0.0</version>
   <description>The range_filter_for_LiDAR package</description>
 
